@@ -1,0 +1,14 @@
+/**
+ * SCOPE FUNCTION ADALAH SEBUAH FUNCTION YANG DI BUAT DI DALAM FUNCTION MAIN
+ * TETAPI KETIKA FUNCTION YANG DIBUAT TADI DI PANGGIL DI LUAR FUNCTION MAIN OTOMATIS AKAN ERROR.
+ */
+fun main() {
+    fun hello(name:String,umur:Int){
+    println("Nama saya : $name\nUmur saya : $umur")
+    }
+    // memanggil function hello
+    hello("Royhan",19)
+}
+/**
+ * KETIKA FUNCTION HELLO NYA DI PANGGIL DILUAR FUNCTION MAIN,MAKA OTOMATIS AKAN ERROR,ATAUPUN GAGGAL.
+ */
