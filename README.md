@@ -1,5 +1,5 @@
 <h2>KOTLIN-DASAR</h2>
-<li>
-  <ul>Mempelajari Basic-Basic Kotlin</ul>
-  <ul>Mempelajari Fundamental Kotlin</ul>
-</li>
+<ul>
+  <li>Mempelajari Basic-Basic Kotlin</li>
+  <li>Mempelajari Fundamental Kotlin</li>
+</ul>
